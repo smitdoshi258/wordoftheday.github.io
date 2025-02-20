@@ -48,10 +48,9 @@
 
 blockquote {
     background: #f9f9f9;
-    border-left: 20px solid#f94449;
-    width: 20px;
-    margin:20px;
-    padding: .5rem;
+    border-left: 10px solid#f94449;
+    margin:0.5rem;
+    padding: .1rem;
 }
 
 #quoteAuthor {
