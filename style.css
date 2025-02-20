@@ -50,6 +50,7 @@ blockquote {
     background: #f9f9f9;
     border-left: 20px solid#f94449;
     width: 20px;
+    margin:20px;
     padding: .5rem;
 }
 
