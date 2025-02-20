@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #5372F0;
+    background-color: #D61A3C;
     color: #223;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
@@ -48,7 +48,7 @@
 
 blockquote {
     background: #f9f9f9;
-    border-left: 10px solid#f94449;
+    border-left: 20px solid#f94449;
     width: 20px
 }
 
