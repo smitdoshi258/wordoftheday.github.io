@@ -30,6 +30,7 @@
 }
 
 #quoteBtn {
+    border: 2px;
     border-color: #f44336;
     color: red;
     background-color: white;
