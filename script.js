@@ -50,6 +50,6 @@ quoteBtn.addEventListener('click', displayQuote);
 
 function displayQuote() {
     let number = Math.floor(Math.random() * quotes.length);
-    quoteAuthor.innerHTML = quotes[number].name;
-    quote.innerHTML = quotes[number].quote;
+    quoteAuthor.innerHTML = quotes[number].quote;
+    quote.innerHTML = quotes[number].name;
 }
